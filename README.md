@@ -30,7 +30,8 @@ Buon divertimento!
 # cubeVenture - Comandi
 Stavo per dimenticare i comandi. In modo simile a Minecraft, ci si muove nel mondo utilizzando WASD sulla propria tastiera, saltando con la barra spaziatrice e si costruisce e si distrugge con il tasto destro e sinistro del mouse. 
 Sommario:
-> WASD - Movimento
-> Tasto sinistro del mouse - Distruggere blocchi
-> Tasto destro del mouse - Costruire blocchi
+> WASD - Movimento\n
+> Tasto sinistro del mouse - Distruggere blocchi\n
+> Tasto destro del mouse - Costruire blocchi\n
+> ESC - Uscire dal gioco
 
